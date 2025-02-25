@@ -14,7 +14,7 @@ public class ProductEX {
 		
 		Product<App,String> product = new Product<>();
 		
-		App app = new App();
+		App app = new App(); 
 		
 		product.setProduct(app);
 	}
